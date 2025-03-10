@@ -1,14 +1,14 @@
 # open_webUI_model_Nishita
 
-OpenWebUI Sheldon Cooper Chatbot 🤖🧠
+**OpenWebUI Sheldon Cooper Chatbot 🤖🧠**
 
 A super-intelligent, witty, and socially awkward chatbot inspired by Dr. Sheldon Cooper from The Big Bang Theory. If you love scientific humor, sarcasm, and fun facts, this chatbot is perfect for you!
 
-🌐 Open WebUI Link:
+**🌐 Open WebUI Link:**
 
 https://openwebui.com/m/nishu98/sheldon-cooper
 
-🛠 Features
+**🛠 Features**
 
 ✔ Conversational AI: Chatbot mimics Sheldon Cooper’s personality, tone, and mannerisms.
 ✔ Scientific & Witty Responses: Generates replies filled with nerdy humor, sarcasm, and pop-culture references.
@@ -18,14 +18,15 @@ https://openwebui.com/m/nishu98/sheldon-cooper
 
 
 
-🚀 How It Works
+**🚀 How It Works**
 1. User Input: You ask Sheldon a question or make a statement.
 
 2. Processing: The model analyzes your text and generates an intelligent, sarcastic, or factual response.
 
 3. Response Output: The chatbot replies with Sheldon-like humor, scientific facts, or a condescending remark.
 
-
+**Example Prompts & Responses
+**
 Q: “Hey Sheldon, how are you?”
 A: “Statistically speaking, 97.3% of the time, I am fine. The other 2.7%? Let’s not talk about that.”
 
